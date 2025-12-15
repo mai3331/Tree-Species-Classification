@@ -1,0 +1,8 @@
+tfenv_new/
+
+Data/
+!Data/Leaves/all.csv
+
+Results/Inception/models/*.h5
+
+Models/flavia_split/*
