@@ -6,3 +6,5 @@ Data/
 Results/Inception/models/*.h5
 
 Models/flavia_split/*
+
+Documentation.docx
